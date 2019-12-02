@@ -1,5 +1,5 @@
 # project_1
-find the prime number
+#find the prime number
 # for loop with range - prime numble
 
 for num in range(2,15,1):
